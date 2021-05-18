@@ -21,6 +21,5 @@ libraries:
   - Adafruit SSD1306
   - MPU6050_tockn
   - PubSubClient
-  - WiFi
   
   # - Arduino Low Power==1.2.1  # Installs v1.2.1
